@@ -31,6 +31,29 @@ span{
    padding: 12px 40px;
    margin-left: 45%;
    border-radius: 8px;
-   
+   color:white;
     background-image: linear-gradient(red ,orange);
+}
+.donet-amount h1{
+    color: black;
+    font-family: 'Arima', cursive;
+}
+.donet-amount p{
+    text-align: center;
+    font-size: 22px;
+    width:50%;
+    padding-left: 25%;
+    font-family: 'Karla', sans-serif;
+}
+section{
+    display: flex;
+}
+.amount{
+    padding: 23px 0px;
+    display: inline-block;
+    margin-left: 165px;
+}
+input{
+    margin-left: 30%;
+    padding: 10px 200px;
 }
