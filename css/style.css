@@ -132,6 +132,9 @@ section.dnt {
     height: 445px;
     margin: 68px 132px;
 }
+small{
+    font-size: 20px;
+}
 .email {
     padding: 6px 25px;
     margin-left: 0px;
