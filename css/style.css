@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .heading{
     background-image: url(../img/donation13.jpg);
     background-repeat: no-repeat;
@@ -88,4 +92,13 @@ section.dnt {
 }
 #donet-r{
     background-color: rgb(77, 211, 195);
+}
+.last{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.last {
+    text-align: center;
+    color: white;
 }
